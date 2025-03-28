@@ -1,0 +1,30 @@
+{
+  "title": "Çalışan Yönetimi",
+  "id": "ID",
+  "name": "İsim",
+  "position": "Pozisyon",
+  "actions": "İşlemler",
+  "edit": "Düzenle",{
+  "title": "Çalışan Yönetimi",
+  "id": "ID",
+  "name": "İsim",
+  "position": "Pozisyon",
+  "actions": "İşlemler",
+  "edit": "Düzenle",
+  "delete": "Sil",
+  "addEmployee": "Çalışan Ekle",
+  "editEmployee": "Çalışanı Düzenle",
+  "add": "Ekle",
+  "update": "Güncelle",
+  "placeholderName": "İsim",
+  "placeholderPosition": "Pozisyon"
+}
+
+"delete": "Sil",
+  "addEmployee": "Çalışan Ekle",
+  "editEmployee": "Çalışanı Düzenle",
+  "add": "Ekle",
+  "update": "Güncelle",
+  "placeholderName": "İsim",
+  "placeholderPosition": "Pozisyon"
+}

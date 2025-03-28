@@ -1,0 +1,15 @@
+{
+  "title": "Employee Management",
+  "id": "ID",
+  "name": "Name",
+  "position": "Position",
+  "actions": "Actions",
+  "edit": "Edit",
+  "delete": "Delete",
+  "addEmployee": "Add Employee",
+  "editEmployee": "Edit Employee",
+  "add": "Add",
+  "update": "Update",
+  "placeholderName": "Name",
+  "placeholderPosition": "Position"
+}
