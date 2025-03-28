@@ -21,7 +21,7 @@ export class NavMenu extends LitElement {
         }
 
         .logo {
-            height: 32px;
+            height: 14px;
         }
 
         .nav-items {
