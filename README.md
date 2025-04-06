@@ -22,14 +22,9 @@ git clone  https://github.com/gdilarainan/IngCaseStudy
 
 ```
 
-2. Navigate to the project directory:
+2. Install dependencies:
 ```bash
-cd lit-employee-manager
-```
-
-3. Install dependencies:
-```bash
-npm install
+sudo npm install
 ```
 
 ---
@@ -38,7 +33,7 @@ In the project directory, you can run the following commands:
 
 ### **Start Development Server**
 ```bash
-npm run dev
+sudo npm run dev
 ```
 - Starts a Vite server with hot module reloading.
 - Open [http://localhost:5173](http://localhost:5173) to view the application.
