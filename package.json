@@ -17,7 +17,9 @@
     "@babel/core": "^7.26.10",
     "@babel/plugin-transform-modules-commonjs": "^7.26.3",
     "@babel/preset-env": "^7.26.9",
+    "@open-wc/testing": "^4.0.0",
     "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
     "lit": "^3.2.1",
     "vite": "^5.0.0"
